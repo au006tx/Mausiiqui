@@ -47,6 +47,7 @@ class App extends React.Component {
           <Tracks tracks={this.state.tracks} />
         </div> 
       </div>
+      
     );
   }
 }
